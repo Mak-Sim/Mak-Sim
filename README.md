@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Mak-Sim
-- 👀 I’m interested in signal processing and machine learning
-- 🌱 I’m currently learning Python/PyTorch
+- 👋 Hello, my name is Maxim Vashkevich
+- 👀 I’m interested in audio signal processing, image processing and machine learning
 - 💞️ I’m looking to collaborate on project on ALS voice detection (mobile app)
 - 📫 How to reach me: vashkevich.m@gmail.com
 
