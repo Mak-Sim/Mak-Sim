@@ -8,8 +8,8 @@ My work focuses on **digital signal processing**, **machine and deep learning**.
 - Implementations of speech processing algorithms (e.g., pitch estimation, perturbation analysis and etc)
 - Learned Separable Transform (LST)
 - Multicolumn CNN based on LST
-- Warped filter bank
-- Fast recursive Discrete Cosine Transform (DCT)
+- Warped filter bank, Fast recursive Discrete Cosine Transform (DCT)
+- Speech Emotion Recognition (SER)
 
 <!---
 Mak-Sim/Mak-Sim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
